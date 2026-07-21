@@ -4,6 +4,6 @@
 
 -- Write an SQL query below that will display the first name, surname and sport of all the sports stars.
 
-
+SELECT firstName, surname, sport FROM sports_stars;
 
 --Remember to refer to the CheatSheet.jpg to help you.

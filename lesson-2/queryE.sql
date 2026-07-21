@@ -4,6 +4,6 @@
 
 -- Write an SQL query below that will display the first name and surname of all the sports stars who have a birthday in June.
 
-
+SELECT firstName, surname FROM sports_stars WHERE monthBorn = 'June';
 
 --Remember to refer to the CheatSheet.jpg to help you.

@@ -4,6 +4,6 @@
 
 -- Write an SQL query below that will display all the data of the sports stars who have a birthday in December. 
 
-
+SELECT * FROM sports_stars WHERE monthBorn = 'December';
 
 --Remember to refer to the CheatSheet.jpg to help you.
