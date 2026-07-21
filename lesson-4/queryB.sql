@@ -1,5 +1,5 @@
 -- The data stored in the planets database are: planetName, numMoons, firstYearRecorded, distanceFromSun and discoveredBy
 
  -- Create a SQL query below so that it displays all of the data the planets ordered by planet name in descending order.
- 
+ Select * FROM planets ORDER BY planetName DESC;
  -- Remember to refer to the CheatSheet.jpg to help you.
