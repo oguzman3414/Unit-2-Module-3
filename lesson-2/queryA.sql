@@ -1,7 +1,7 @@
 --------------------------------------EDIT BELOW THIS LINE-----------------------------------------------------------------
 
 -- The data stored in the sports stars database are: firstName, surname, monthBorn, yearOfBirth and sport
-CREATE TABLE sports_stars (
+CREATE TABLE  sports_stars (
     firstName VARCHAR(255),
     surname VARCHAR(255),
     monthBorn INT,
